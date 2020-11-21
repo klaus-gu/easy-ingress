@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/plugin/pom.xml" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/bootstrap/pom.xml" />
       </list>
     </option>
   </component>

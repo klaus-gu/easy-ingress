@@ -22,6 +22,7 @@
     <modules>
         <module>core</module>
         <module>plugin</module>
+        <module>bootstrap</module>
     </modules>
 
 </project>
