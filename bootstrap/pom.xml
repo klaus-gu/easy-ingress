@@ -6,8 +6,9 @@
         <groupId>xyz.turboklaus</groupId>
         <artifactId>easy-ingress</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>xyz.turboklaus</groupId>
     <artifactId>bootstrap</artifactId>
     <version>0.0.1-SNAPSHOT</version>

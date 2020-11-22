@@ -4,8 +4,8 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bootstrap" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ingress-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plugin/zuul-plugin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
   </component>
 </project>

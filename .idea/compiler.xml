@@ -11,15 +11,18 @@
         <module name="easy-ingress" />
         <module name="plugin" />
         <module name="test" />
+        <module name="zuul-plugin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bootstrap" target="1.8" />
       <module name="core" target="1.8" />
       <module name="easy-ingress" target="1.8" />
+      <module name="easy-zuul" target="1.8" />
       <module name="ingress-core" target="1.8" />
       <module name="plugin" target="1.8" />
       <module name="test" target="1.8" />
+      <module name="zuul-plugin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -27,9 +30,11 @@
       <module name="bootstrap" options="-parameters" />
       <module name="core" options="-parameters" />
       <module name="easy-ingress" options="-parameters" />
+      <module name="easy-zuul" options="-parameters" />
       <module name="ingress-core" options="-parameters" />
       <module name="plugin" options="-parameters" />
       <module name="test" options="-parameters" />
+      <module name="zuul-plugin" options="-parameters" />
     </option>
   </component>
 </project>
