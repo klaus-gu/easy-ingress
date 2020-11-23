@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: easy-ingress
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: b53a3495-f81d-40d3-8af6-2a6bbe735921
+
+
+server:
+  port: 8888

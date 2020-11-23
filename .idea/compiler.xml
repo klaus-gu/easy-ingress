@@ -6,20 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="api" />
         <module name="bootstrap" />
         <module name="core" />
-        <module name="easy-ingress" />
+        <module name="feign-plugin" />
+        <module name="integrations" />
+        <module name="nacos-plugin" />
         <module name="plugin" />
         <module name="test" />
         <module name="zuul-plugin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
       <module name="bootstrap" target="1.8" />
       <module name="core" target="1.8" />
       <module name="easy-ingress" target="1.8" />
       <module name="easy-zuul" target="1.8" />
+      <module name="feign-plugin" target="1.8" />
       <module name="ingress-core" target="1.8" />
+      <module name="integrations" target="1.8" />
+      <module name="nacos-plugin" target="1.8" />
       <module name="plugin" target="1.8" />
       <module name="test" target="1.8" />
       <module name="zuul-plugin" target="1.8" />
@@ -27,14 +34,18 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="bootstrap" options="-parameters" />
+      <module name="api" options="-parameters" />
+      <module name="bootstrap" options="" />
       <module name="core" options="-parameters" />
-      <module name="easy-ingress" options="-parameters" />
+      <module name="easy-ingress" options="" />
       <module name="easy-zuul" options="-parameters" />
+      <module name="feign-plugin" options="" />
       <module name="ingress-core" options="-parameters" />
-      <module name="plugin" options="-parameters" />
-      <module name="test" options="-parameters" />
-      <module name="zuul-plugin" options="-parameters" />
+      <module name="integrations" options="" />
+      <module name="nacos-plugin" options="" />
+      <module name="plugin" options="" />
+      <module name="test" options="" />
+      <module name="zuul-plugin" options="" />
     </option>
   </component>
 </project>
