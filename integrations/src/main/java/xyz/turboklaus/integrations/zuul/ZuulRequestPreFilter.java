@@ -1,7 +1,9 @@
 package xyz.turboklaus.integrations.zuul;
 
 import com.netflix.zuul.ZuulFilter;
+import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
+import org.springframework.beans.factory.InitializingBean;
 import org.springframework.cloud.netflix.zuul.filters.support.FilterConstants;
 
 /**
@@ -9,7 +11,7 @@ import org.springframework.cloud.netflix.zuul.filters.support.FilterConstants;
  * @author <a href="mailto:guyue375@outlook.com">klaus</a>
  * @program easy-ingress
  **/
-public class ZuulRequestPreFilter extends ZuulFilter {
+public class ZuulRequestPreFilter extends ZuulFilter implements InitializingBean {
 
     @Override
     public String filterType() {
@@ -28,6 +30,12 @@ public class ZuulRequestPreFilter extends ZuulFilter {
 
     @Override
     public Object run() throws ZuulException {
+        RequestContext context = RequestContext.getCurrentContext();
+        System.out.println("拦截请求。。。");
         return null;
+    }
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
     }
 }

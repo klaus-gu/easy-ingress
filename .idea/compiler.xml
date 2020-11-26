@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api" />
         <module name="bootstrap" />
-        <module name="core" />
         <module name="feign-plugin" />
+        <module name="feign-test" />
         <module name="integrations" />
         <module name="nacos-plugin" />
         <module name="plugin" />
@@ -24,6 +24,7 @@
       <module name="easy-ingress" target="1.8" />
       <module name="easy-zuul" target="1.8" />
       <module name="feign-plugin" target="1.8" />
+      <module name="feign-test" target="1.8" />
       <module name="ingress-core" target="1.8" />
       <module name="integrations" target="1.8" />
       <module name="nacos-plugin" target="1.8" />
@@ -40,6 +41,7 @@
       <module name="easy-ingress" options="" />
       <module name="easy-zuul" options="-parameters" />
       <module name="feign-plugin" options="" />
+      <module name="feign-test" options="" />
       <module name="ingress-core" options="-parameters" />
       <module name="integrations" options="" />
       <module name="nacos-plugin" options="" />
