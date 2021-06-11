@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8eda5e4f-38c4-4e20-b413-a11ef07a93c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xyz_turboklaus_plugin_0_0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/bootstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/bootstrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/feign-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/src/main/java/xyz/turboklaus/feign/test/FeignInvoke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/src/main/java/xyz/turboklaus/feign/test/FeignInvokeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/src/main/java/xyz/turboklaus/feign/test/FeignTestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/integrations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulPluginAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulPluginProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulPropertiesBeanPostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulRequestPreAccessFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulRequestPreFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/java/xyz/turboklaus/integrations/zuul/ZuulResponsePostFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integrations/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/feign-plugin/feign-plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/feign-plugin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/feign-plugin/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/nacos-plugin/nacos-plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/nacos-plugin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/zuul-plugin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/zuul-plugin/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin/zuul-plugin/zuul-plugin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/xyz/turboklaus/test/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/xyz/turboklaus/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tmakXJui1drpyYguxCSOKtbMZF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BootstrapApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootstrapApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bootstrap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.turboklaus.bootstrap.BootstrapApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feign-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.turboklaus.feign.test.FeignTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="xyz.turboklaus.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8eda5e4f-38c4-4e20-b413-a11ef07a93c5" name="Default Changelist" comment="" />
+      <created>1623376862096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623376862096</updated>
+      <workItem from="1623376863494" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
