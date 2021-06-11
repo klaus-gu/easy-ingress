@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  xyz.turboklaus.integrations.zuul.ZuulPluginAutoConfiguration

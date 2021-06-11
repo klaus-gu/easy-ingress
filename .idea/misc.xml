@@ -15,19 +15,19 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/plugin/pom.xml" />
-        <option value="$PROJECT_DIR$/test/pom.xml" />
         <option value="$PROJECT_DIR$/bootstrap/pom.xml" />
         <option value="$PROJECT_DIR$/zuul-plugin/pom.xml" />
         <option value="$PROJECT_DIR$/feign-plugin/pom.xml" />
-        <option value="$PROJECT_DIR$/integrations/pom.xml" />
         <option value="$PROJECT_DIR$/api/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-plugin/pom.xml" />
-        <option value="$PROJECT_DIR$/feign-test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/integrations/pom.xml" />
+        <option value="$PROJECT_DIR$/plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
       </set>
     </option>
   </component>

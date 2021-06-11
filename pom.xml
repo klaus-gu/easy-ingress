@@ -37,10 +37,8 @@
     </properties>
 
     <modules>
-        <module>plugin</module>
+        <module>api</module>
         <module>bootstrap</module>
-        <module>test</module>
-        <module>integrations</module>
     </modules>
 
     <dependencyManagement>
@@ -56,12 +54,13 @@
 
             <dependency>
                 <groupId>xyz.turboklaus</groupId>
-                <artifactId>plugin</artifactId>
+                <artifactId>bootstrap</artifactId>
                 <version>${project.version}</version>
             </dependency>
+
             <dependency>
                 <groupId>xyz.turboklaus</groupId>
-                <artifactId>bootstrap</artifactId>
+                <artifactId>api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>

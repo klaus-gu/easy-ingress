@@ -6,11 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/bootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy-ingress.iml" filepath="$PROJECT_DIR$/easy-ingress.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugin/feign-plugin/feign-plugin.iml" filepath="$PROJECT_DIR$/plugin/feign-plugin/feign-plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/feign-test/feign-test.iml" filepath="$PROJECT_DIR$/feign-test/feign-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/integrations/integrations.iml" filepath="$PROJECT_DIR$/integrations/integrations.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugin/nacos-plugin/nacos-plugin.iml" filepath="$PROJECT_DIR$/plugin/nacos-plugin/nacos-plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugin/zuul-plugin/zuul-plugin.iml" filepath="$PROJECT_DIR$/plugin/zuul-plugin/zuul-plugin.iml" />
     </modules>
   </component>

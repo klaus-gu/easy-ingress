@@ -6,14 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="feign-plugin" />
+        <module name="nacos-plugin" />
         <module name="api" />
         <module name="bootstrap" />
-        <module name="feign-plugin" />
-        <module name="feign-test" />
-        <module name="integrations" />
-        <module name="nacos-plugin" />
-        <module name="plugin" />
-        <module name="test" />
         <module name="zuul-plugin" />
       </profile>
     </annotationProcessing>

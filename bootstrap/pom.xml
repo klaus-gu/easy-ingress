@@ -19,24 +19,6 @@
     <dependencies>
 
         <dependency>
-            <groupId>xyz.turboklaus</groupId>
-            <artifactId>integrations</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>xyz.turboklaus</groupId>
-            <artifactId>nacos-plugin</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>xyz.turboklaus</groupId>
-            <artifactId>zuul-plugin</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-
-        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
@@ -66,12 +48,6 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
 
-        <!--<dependency>-->
-            <!--<groupId>xyz.turboklaus</groupId>-->
-            <!--<artifactId>core</artifactId>-->
-            <!--<version>${project.version}</version>-->
-        <!--</dependency>-->
-
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
@@ -89,23 +65,6 @@
     </dependencies>
 
     <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>xyz.turboklaus</groupId>
-                <artifactId>plugin</artifactId>
-                <version>${project.version}</version>
-                <scope>import</scope>
-                <type>pom</type>
-            </dependency>
-
-            <dependency>
-                <groupId>xyz.turboklaus</groupId>
-                <artifactId>integrations</artifactId>
-                <version>${project.version}</version>
-                <scope>import</scope>
-                <type>pom</type>
-            </dependency>
-        </dependencies>
     </dependencyManagement>
 
     <build>
