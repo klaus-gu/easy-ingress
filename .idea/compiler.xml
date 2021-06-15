@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="server" />
         <module name="feign-plugin" />
         <module name="nacos-plugin" />
         <module name="api" />
@@ -25,6 +26,7 @@
       <module name="integrations" target="1.8" />
       <module name="nacos-plugin" target="1.8" />
       <module name="plugin" target="1.8" />
+      <module name="server" target="1.8" />
       <module name="test" target="1.8" />
       <module name="zuul-plugin" target="1.8" />
     </bytecodeTargetLevel>
@@ -42,6 +44,7 @@
       <module name="integrations" options="" />
       <module name="nacos-plugin" options="" />
       <module name="plugin" options="" />
+      <module name="server" options="" />
       <module name="test" options="" />
       <module name="zuul-plugin" options="" />
     </option>

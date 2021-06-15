@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/feign-plugin/pom.xml" />
         <option value="$PROJECT_DIR$/api/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-plugin/pom.xml" />
+        <option value="$PROJECT_DIR$/server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
